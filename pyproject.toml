@@ -1,1 +1,6 @@
-
+[project]
+name = "final-project"
+version = "0.1.0"
+description = "Final Project for OOP Course"
+authors = [{name = "Student"}]
+dependencies = []
